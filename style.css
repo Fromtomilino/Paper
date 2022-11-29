@@ -125,32 +125,32 @@ margin: 0;
 
 }
 .main__block1 {
-background: url('/img/IMAGE\ 1.png') no-repeat center center;
+background: url('img/IMAGE\ 1.png') no-repeat center center;
 height: 800px;
 position: relative;
 }
 
 .main__block2 {
-	background:url("/img/IMAGE\ 2.png") no-repeat center center ;
+	background:url("img/IMAGE\ 2.png") no-repeat center center ;
 	height: 800px;
 	position: relative;
 	
 }
 
 .main__block3 {
-	background:url("/img/IMAGE\ 3.png")no-repeat center center;
+	background:url("img/IMAGE\ 3.png")no-repeat center center;
 	height: 800px;
 	position: relative;
 }
 
 .main__block4 {
-	background:url("/img/IMAGE\ 4.png")no-repeat center center;
+	background:url("img/IMAGE\ 4.png")no-repeat center center;
 	height: 800px;
 	position: relative;
 }
 
 .main__block5 {
-	background:url("/img/IMAGE\ 5.png")no-repeat center center;
+	background:url("img/IMAGE\ 5.png")no-repeat center center;
 	height: 800px;
 	position: relative;
 }
